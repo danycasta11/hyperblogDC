@@ -3,7 +3,6 @@ body{
     text-align:center;
     font-family:Courier;
     font-size:16px;
-    background-color:blueviolet;
     margin:0;
     padding:0
 }
@@ -29,7 +28,8 @@ body{
         text-align:
         left;
         border:1px solid #ddd;
-        margin:0 auto
+        margin:0 auto;
+        background-color: blueviolet;
     }
     #container h1{
         font-size:20px
