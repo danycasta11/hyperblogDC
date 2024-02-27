@@ -38,3 +38,10 @@ body{
     {
         padding:1em
     }
+    h2
+    {
+        color:aquamarine;
+        background-color: chocolate;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: small;
+    }
