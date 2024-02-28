@@ -1,8 +1,8 @@
 body{
-    color:blue;
+    color:rgb(5, 5, 80);
     text-align:center;
-    font-family:Courier;
-    font-size:16px;
+    font-family:"papyrus";
+    font-size:30px;
     margin:0;
     padding:0
 }
@@ -29,7 +29,7 @@ body{
         left;
         border:1px solid #ddd;
         margin:0 auto;
-        background-color: blueviolet;
+        background-color: rgb(130, 101, 157);
     }
     #container h1{
         font-size:20px
